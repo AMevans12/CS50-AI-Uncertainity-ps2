@@ -8,7 +8,7 @@ This repository contains solutions for the CS50 AI Week 2 problems focusing on *
 2. **PageRank:** Implementing the PageRank algorithm to rank web pages based on their link structure.
 
 ## Problems
-
+ 
 ### 1. Heridity
 
 The Heridity problem involves creating a model to simulate the inheritance of genetic traits in a family. Using a Bayesian network, the model predicts the probability of a trait appearing in offspring based on genetic information from parents and grandparents.
